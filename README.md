@@ -11,7 +11,7 @@ pip install pyautogui keyboard
 ```
 <br />
 
-![Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle/assets/123030236/f8b94a20-df35-469e-bf83-5d3f05cd6a86)
+![Mouse_Pointer_Circle](https://github.com/sourceduty/Mouse_Pointer_Circle/assets/123030236/e6de8672-255c-46a1-82b4-e790da0bf152)
 
 #
 
